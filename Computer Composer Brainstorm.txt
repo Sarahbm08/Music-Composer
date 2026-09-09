@@ -1,0 +1,20 @@
+Ideas
+	Select Time signature
+		Option to be able to change time signature
+			What other time signatures are options?
+			Every measure?
+			Number of times?
+	Select Key signature
+		Could have no time signature with truly random pitches
+			Or have a 12-tone composition
+		Option to change key signature
+			What other key signatures are options?
+			Every measure?
+			Number of times?
+	Select smallest and biggest note value (16th and whole note, perhaps?)
+	Select Range of notes (between what and what?)
+	Select instrumententation
+		What instrument is the solo?
+			Select different key signatures for different instruments
+	Select Number of measures long
+	Notation?
